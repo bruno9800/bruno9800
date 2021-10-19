@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript
 - 📫 Vivo na cidade de Petrolina-PE.
 
-
+##
 
   <div id="Badges">
       <a style="margin-right: 15px;" href="mailto:bruno9800m@gmail.com"><img style="border-radius: 5px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Meu gmail"></a>
