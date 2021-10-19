@@ -1,6 +1,7 @@
 
+## Oi, me chamo Bruno Matheus Pereira Silva
 
-- 👋 ## Oi, meu nome é Bruno Matheus Pereira Silva - @bruno9800
+- 👋 @bruno9800
 - 👀 Estou interessado na Área de front-end
 - 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript
 - 📫 Vivo na cidade de Petrolina-PE.
