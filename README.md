@@ -1,5 +1,5 @@
 
-## Oi, me chamo Bruno Matheus Pereira Silva
+## Oi, pode me chamar de Bruno
 
 - 👋 @bruno9800
 - 👀 Estou interessado na Área de front-end
