@@ -2,8 +2,8 @@
 ## Oi, pode me chamar de Bruno
 
 - 👋 @bruno9800
-- 👀 Estou interessado na Área de front-end
-- 🌱 Atualmente estou estudando HTML5, CSS3, JavaScript
+- 👀 Estou interessado na Área de desenvolvimento web
+- 🌱 Atualmente estou estudando NextJs e NodeJS
 - 📫 Vivo na cidade de Petrolina-PE.
 
 ##
